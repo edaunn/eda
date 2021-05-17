@@ -1,0 +1,197 @@
+body {
+    margin: 0;
+    height : 100%;
+}
+
+
+.nav-bar {
+    /*height: 50%;*/
+    background: #d1eef2;
+    display: block;
+}
+
+#logo {
+    width: 80px; 
+    height: 80px; 
+    margin-top: 20px; 
+    margin-bottom: 0;
+    margin-left: 30%;
+}
+
+.menu-container {
+    display: inline-block;
+    background-color: #d1eef2;
+    color: slateblue;
+    font-size: 1rem;
+    font-family: 'Indie Flower', cursive;
+    margin-bottom: 0;
+    margin-left: 30%;
+}
+/*
+h3 {
+    display: inline-block;
+    margin-left: 10px;
+    color: white;
+}*/
+
+hr {
+    border: rgba(0, 0, 0, 0.5);
+    border-style: dotted none none none;
+    border-width: 5px;
+    margin-top: 50px;
+    width: 6%;
+}
+
+.intro {
+    text-align: center;
+    color: white;
+}
+
+#intro-name {
+    font-family: 'Dancing Script', cursive;
+    color : white;
+    font-size: 6rem;
+    margin-top: 0;
+    padding-top: 5%;
+    margin-bottom: 0;
+}
+
+#intro-desc {
+    font-family: 'Indie Flower', cursive;
+}
+
+.intro {
+    background: #d1eef2;
+}
+
+#hi-pic {
+    display: block;
+    width: 180px;
+    height: 180px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+#hi-word {
+    font-family: 'Itim', cursive;
+    text-align: center;
+    font-size: 2.8rem;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#about-me {
+    font-family: 'Itim', cursive;
+    font-size: 1.2rem;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#what-i-do {
+     position: relative;
+}
+
+#what-i-do-text {
+    padding-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: 'Itim', cursive;
+    font-size: 1.8rem;
+    color: #2d977f;
+}
+
+#view-paint {
+    position: relative;
+    max-height: 40%;
+    max-width: 40%;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    left: 12%;
+}
+
+.view-desc {
+    position: relative;
+    display: inline-block;
+    margin-left: 25%;
+    bottom: 35px;
+    font-family: 'Itim', cursive;
+    color: #2d977f;
+    font-size: 1.3rem;
+}
+
+#cat-paint {
+    position: relative;
+    max-height: 30%;
+    max-width: 30%;
+    left: 18%;
+    margin-top: 10%;
+}
+
+.cat-desc {
+    position: relative;
+    display: inline-block;
+    margin-left: 35%;
+    bottom: 35px;
+    font-family: 'Itim', cursive;
+    color: rgb(50, 50, 224);
+    font-size: 1.3rem;
+}
+
+#pizza-paint {
+    position: relative;
+    max-height: 30%;
+    max-width: 30%;
+    left: 18%;
+    margin-top: 10%;
+}
+
+.pizza-desc {
+    position: relative;
+    display: inline-block;
+    margin-left: 35%;
+    bottom: 20px;
+    font-family: 'Itim', cursive;
+    color: rgba(128, 0, 21, 0.815);
+    font-size: 1.3rem;
+}
+
+#eda-paint {
+    position: relative;
+    max-height: 30%;
+    max-width: 30%;
+    left: 18%;
+    margin-top: 10%;
+}
+
+.eda-desc {
+    position: relative;
+    display: inline-block;
+    margin-left: 34%;
+    bottom: 30px;
+    font-family: 'Itim', cursive;
+    color: black;
+    font-size: 1.3rem;
+}
+
+#last-eda-pic {
+    text-align: center;
+    max-height: 20%;
+    max-width: 20%;
+}
+
+#last-words {
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Itim', cursive;
+    color: violet;
+}
+
+footer {
+    background-color: #d1eef2;
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 0;
+    color: teal; 
+    padding-top: 10px;
+}
